@@ -1,0 +1,7 @@
+node_modules/
+.env
+cert.pem
+key.pem
+fetchMovies.js
+fetchTopMovies.js
+fetchTvShows.js
